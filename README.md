@@ -1,6 +1,6 @@
 # Content
 
-- ## Just a tiny tutorial note to help you understand
+- ## Asynchronous Programming with JavaScript
 
     Just a tiny tutorial note to help you understand Asynchronous Programming with JavaScript, collected from edX!
 
